@@ -6,6 +6,7 @@
 # ----------- An in-depth exploration of the art of shell scripting
 # ----------- Mendel Cooper
 #
+
 # Defining variables. No space on each side of "="
 IS_GIT_REPO=0
 ITEM_COUNT=0
